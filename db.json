@@ -1,0 +1,14 @@
+{
+  "feedback": [
+    {
+      "text": "Good Good Good",
+      "rating": 10,
+      "selectedCategories": [
+        "Food",
+        "Ambiance",
+        "Delivery Speed"
+      ],
+      "id": 1
+    }
+  ]
+}
